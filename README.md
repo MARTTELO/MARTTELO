@@ -1,4 +1,14 @@
-## Hi there 👋
+# Olá Bem-vindo ao meu perfil 👋
+
+## Sobre este velho...
+Sou um dinosauro vivendo nos tempos modernos, mas cresci junto com o avanço da tecnologia e desde pequeno adoro computadores.
+Quis o destino que eu explorasse outras áreas, desenvolvendo o que vim a descobrir depois ser minhas soft skils.
+A tecnologia é minha paixão e decidi voltar a estudar 17 anos depois de ter terminado o ensino médio. Um desafio e tanto.
+
+Me formei com louvour em 2019 aos 40 anos no curso Sistemas para Internet na FATEC Jales/SP mas desde então não tive grandes oportunidades na área.
+De volta aos estudos, meu objetivo é ingressar no mercado de trabalho de alguma forma e continuar desenvolvendo minhas hard skills, continuar a aprender sempre e manter a mente jovem tanto quanto eu puder.
+
+
 
 <!--
 **MARTTELO/MARTTELO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Ele / dele
 - ⚡ Fun fact: ...
 -->
