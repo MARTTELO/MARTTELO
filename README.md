@@ -13,8 +13,10 @@ De volta aos estudos, meu objetivo é ingressar no mercado de trabalho de alguma
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![inDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 
-Desenvolvi na raça conceitos de design trabalhando em gráficas rápidas onde desenvolvi de tudo, desce cartões de visitas, folhetos, banners, revistas, estampas, etc.
-Com este conhecimento também pude operar diversos equipamentos de impressão, plotters de recorte e routers. Com a habilidade de criar arte-final de arquivos me faltava a parte de desenvolvimento para web que fui buscar somente anos depois.
+Cançado de ser office-boy, aproveitava minha hora de almoço para aprender com um amigo a criar lacres para computador.
+Na raça e na vontade aprendi conceitos de design trabalhando em gráficas rápidas onde criava de tudo, desce cartões de visitas, a folhetos, banners, revistas, estampas, etc.
+Com o surgimento da internet a profissão de web-designer era o hype da época mas só fui me didicar a esta nova área muitos anos depois.
+Além disso também pude operar diversos equipamentos de impressão, plotters de recorte e routers.
 
 ## Tecnologias que estou explorando hoje
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
