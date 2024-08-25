@@ -28,7 +28,6 @@ Trilhando a road trip de todo desenvolvedor. Antes tarde do que nunca e nenhum t
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-[![Marttelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MARTTELO&&hide=prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARTTELO&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MARTTELO/MARTTELO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
